@@ -114,7 +114,7 @@ work on our behalf:</p>
 </ul>
 
 <a name="dnt"></a>
-<p>Gittip supports <a href ="http://donottrack.us/">"Do Not Track"</a>
+<p>Gittip supports <a href ="http://donottrack.us/" name="dnt">"Do Not Track"</a>
 (DNT), which a privacy setting in many browsers. Enabling your browser's DNT
 settings ensures that Gittip will disable any use of third-party analytics
 services.</p>
